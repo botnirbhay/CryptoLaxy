@@ -9,3 +9,6 @@ https://rapidapi.com.
 
 ## Note 
 The exchanges page will not work as the api for exchanges is now paid .
+
+## Link
+https://stupendous-cannoli-6db114.netlify.app
