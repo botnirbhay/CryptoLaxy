@@ -1,10 +1,11 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+# CryptoLaxy - Explore the World of Cryptocurrency
 
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+This is a website to keep a track of the leading cryptocurrencies 
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+## API Provider
+https://rapidapi.com.
 
-By the end of this video, you will become the master of working with APIs.
-#� �C�r�y�p�t�o�F�Y�
+## Note 
+The exchanges page will not work as the api for exchanges is now paid .
